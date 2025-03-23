@@ -1,5 +1,5 @@
-#Digital Marketing Course Website 
+<h1>Digital Marketing Course Website </h1>
 <br>
-##Using - HTML , CSS and Bootstrap
+<h2>Using - HTML , CSS and Bootstrap</h2>
 <br>
-#Live Link - https://subham-web98.github.io/Digital-Marketing-Course-/
+<h3>Live Link - https://subham-web98.github.io/Digital-Marketing-Course-/</h3>
